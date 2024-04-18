@@ -5,6 +5,6 @@
                    The databse contains two tables one to store tree information and other for user information.
                    Create these tables into the postgresql if they dont exist
 
-5.Path configuration: Adjust the paths for functions and the databases as per your setup
+ 5.Path configuration: Adjust the paths for functions and the databases as per your setup
 
 Note: Ensure all dependencies are installed and configured properly before running the scripts.
