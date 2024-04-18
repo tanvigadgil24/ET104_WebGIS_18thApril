@@ -6,5 +6,6 @@
                    Create these tables into the postgresql if they dont exist
 
   5.Path configuration: Adjust the paths for functions and the database as per your setup
-
+  
+After running the server, open login.html in your web browser and proceed with the login process.
 Note: Ensure all dependencies are installed and configured properly before running the scripts.
